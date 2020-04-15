@@ -1,0 +1,10 @@
+{
+  "film":[
+  {
+    "id":0,
+    "title":"Побег из Шоушенка",
+    "imageUrl":"https://avatars.mds.yandex.net/get-kinopoisk-image/1599028/0b76b2a2-d1c7-4f04-a284-80ff7bb709a4/360",
+    "releaseDate":"1999-11-10",
+    "genres":[
+    {"name":"Фантастика"}]},{"id":1,"title":"Зеленая миля","imageUrl":"https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/f3ed465e-2461-41af-930e-f507dcc7cf61/360","releaseDate":"1999-12-16","genres":[{"name":"Фантастика"},{"name":"Детектив"},{"name":"Мелодрамма"}]},{"id":2,"title":"Форрест Гамп","imageUrl":"https://avatars.mds.yandex.net/get-kinopoisk-image/1599028/3560b757-9b95-45ec-af8c-623972370f9d/360","releaseDate":"1994-06-23","genres":[{"name":"Детектив"},{"name":"Мелодрамма"}]},{"id":3,"title":"1+1","imageUrl":"https://avatars.mds.yandex.net/get-kinopoisk-image/1898899/4c78b2e3-ffed-4985-bbc2-642952c92f5e/360","releaseDate":"2011-09-23","genres":[{"name":"Фантастика"},{"name":"Комедия"}]},{"id":4,"title":"Леон","imageUrl":"https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/bd1dcbd5-ad6b-4094-8243-d4d506c8b2e1/360","releaseDate":"1994-09-14","genres":[{"name":"Боевик"}]}]
+}
