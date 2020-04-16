@@ -6,11 +6,6 @@
       "imageUrl": "https://st.depositphotos.com/1005844/1346/i/950/depositphotos_13469325-stock-photo-sun-in-space.jpg",
       "releaseDate": "2020-04-16",
       "description": "Красивая звезда, вся пылает, греет нас своим теплом, но лучше на неё не смотреть.",
-      "genres": [
-        {
-          "name": "Фантастика"
-        }
-      ]
     },
     {
       "id": 1,
@@ -18,17 +13,6 @@
       "imageUrl": "https://on-space.ru/wp-content/uploads/2013/08/13.jpg",
       "releaseDate": "2020-04-16",
       "description": "Первая планета от Солнца, жарко, жизни нет",
-      "genres": [
-        {
-          "name": "Фантастика"
-        },
-        {
-          "name": "Детектив"
-        },
-        {
-          "name": "Мелодрамма"
-        }
-      ]
     },
     {
       "id": 2,
@@ -36,14 +20,6 @@
       "imageUrl": "https://v-kosmose.com/wp-content/uploads/2013/11/venus-retrograde-2014.jpg",
       "releaseDate": "2020-04-16",
       "description": "Вторая планета от Солнца, дождь из серной кислоты, жизни нет.",
-      "genres": [
-        {
-          "name": "Детектив"
-        },
-        {
-          "name": "Мелодрамма"
-        }
-      ]
     },
     {
       "id": 3,
@@ -51,14 +27,6 @@
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Africa_and_Europe_from_a_Million_Miles_Away.png",
       "releaseDate": "2020-04-16",
       "description": "Третья планета от Солнца, жизнь есть, но не очень хорошая.",
-      "genres": [
-        {
-          "name": "Фантастика"
-        },
-        {
-          "name": "Комедия"
-        }
-      ]
     },
     {
       "id": 4,
@@ -66,11 +34,6 @@
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Tharsis_and_Valles_Marineris_-_Mars_Orbiter_Mission_%2830055660701%29.png",
       "releaseDate": "2020-04-16",
       "description": "Четвертая планета от Солнца, живет разряженный марсоход и все(.",
-      "genres": [
-        {
-          "name": "Боевик"
-        }
-      ]
     }
   ]
 }
