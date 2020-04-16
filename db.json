@@ -1,11 +1,11 @@
 {
-  "film":[
+  "planet":[
     {
       "id": 0,
-      "title": "Побег из Шоушенка",
+      "title": "Жаркое солнце пустыни",
       "imageUrl": "https://avatars.mds.yandex.net/get-kinopoisk-image/1599028/0b76b2a2-d1c7-4f04-a284-80ff7bb709a4/360",
-      "releaseDate": "1999-11-10",
-      "description": "Пол Эджкомб — начальник блока смертников в тюрьме «Холодная гора», каждый из узников которого однажды проходит «зеленую милю» по пути к месту казни. Пол повидал много заключённых и надзирателей за время работы. Однако гигант Джон Коффи, обвинённый в страш",
+      "releaseDate": "2020-04-16",
+      "description": "Красивая звезда, вся пылает, греет нас своим теплом, но лучше на неё не смотреть.",
       "genres": [
         {
           "name": "Фантастика"
@@ -14,10 +14,10 @@
     },
     {
       "id": 1,
-      "title": "Зеленая миля",
+      "title": "Меркурий",
       "imageUrl": "https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/f3ed465e-2461-41af-930e-f507dcc7cf61/360",
-      "releaseDate": "1999-12-16",
-      "description": "Ёбаный в рот этого казино",
+      "releaseDate": "2020-04-16",
+      "description": "Первая планета от Солнца, жарко, жизни нет",
       "genres": [
         {
           "name": "Фантастика"
@@ -32,10 +32,10 @@
     },
     {
       "id": 2,
-      "title": "Форрест Гамп",
+      "title": "Венера",
       "imageUrl": "https://avatars.mds.yandex.net/get-kinopoisk-image/1599028/3560b757-9b95-45ec-af8c-623972370f9d/360",
-      "releaseDate": "1994-06-23",
-      "description": "МУдак ссука блять",
+      "releaseDate": "2020-04-16",
+      "description": "Вторая планета от Солнца, дождь из серной кислоты, жизни нет.",
       "genres": [
         {
           "name": "Детектив"
@@ -47,10 +47,10 @@
     },
     {
       "id": 3,
-      "title": "1+1",
+      "title": "Земля",
       "imageUrl": "https://avatars.mds.yandex.net/get-kinopoisk-image/1898899/4c78b2e3-ffed-4985-bbc2-642952c92f5e/360",
-      "releaseDate": "2011-09-23",
-      "description": "Ебал я в рот",
+      "releaseDate": "2020-04-16",
+      "description": "Третья планета от Солнца, жизнь есть, но не очень хорошая.",
       "genres": [
         {
           "name": "Фантастика"
@@ -62,10 +62,10 @@
     },
     {
       "id": 4,
-      "title": "Леон",
+      "title": "Марс",
       "imageUrl": "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/bd1dcbd5-ad6b-4094-8243-d4d506c8b2e1/360",
-      "releaseDate": "1994-09-14",
-      "description": "gawgnawgjlgwajn gjawnjk",
+      "releaseDate": "2020-04-16",
+      "description": "Четвертая планета от Солнца, живет разряженный марсоход и все(.",
       "genres": [
         {
           "name": "Боевик"
